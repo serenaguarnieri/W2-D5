@@ -1,0 +1,80 @@
+header {
+  height: 500 px;
+  background-color: #222f3e;
+}
+
+body {
+  background-color: #e9edee;
+}
+.apple {
+  font-size: small;
+  color: white;
+  background-color: #364759;
+  list-style-type: none;
+}
+
+.apple ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 6px;
+  text-decoration: none;
+  word-spacing: 1em;
+}
+
+.banana {
+  color: #eaeded;
+  text-align: center;
+  background-color: #f56600;
+}
+.sfondo {
+  background-color: #e9edee;
+}
+.esempi {
+  background-color: white;
+}
+
+.esempi img {
+  border-image: 30 round;
+
+  text-align: center;
+  width: 24%;
+}
+
+.visor {
+  color: black;
+}
+.visor img {
+  text-align: center;
+  width: 100%;
+}
+
+.top {
+  text-align: center;
+  background-color: #364759;
+  color: white;
+}
+
+footer {
+  background-color: #222f3e;
+}
+
+footer img {
+  height: 20px;
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 6%;
+}
